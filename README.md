@@ -117,7 +117,7 @@ Full credit goes to the original author and the Kaggle community for providing h
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/Jack-622/Rice-Leaf-Diseases-Classification.git
+git clone https://github.com/Jack-622/Rice-Leaf-Disease-Classification.git
 cd rice-leaf-disease-classification
 ```
 
