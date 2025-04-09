@@ -1,8 +1,9 @@
 # Rice Leaf Disease Classification Project
 
-[![GitHub stars](https://img.shields.io/github/stars/Jack-622/Rice-Leaf-Diseases-Classification?style=social)](https://github.com/Jack-622/Rice-Leaf-Diseases-Classification/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Jack-622/Rice-Leaf-Diseases-Classification?style=social)](https://github.com/Jack-622/Rice-Leaf-Diseases-Classification/fork)
-[![Issues](https://img.shields.io/github/issues/Jack-622/Rice-Leaf-Diseases-Classification)](https://github.com/Jack-622/Rice-Leaf-Diseases-Classification/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Jack-622/Rice-Leaf-Disease-Classification?style=social)](https://github.com/Jack-622/Rice-Leaf-Disease-Classification/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jack-622/Rice-Leaf-Disease-Classification?style=social)](https://github.com/Jack-622/Rice-Leaf-Disease-Classification/fork)
+[![Issues](https://img.shields.io/github/issues/Jack-622/Rice-Leaf-Disease-Classification)](https://github.com/Jack-622/Rice-Leaf-Disease-Classification/issues)
+
 
 Welcome to the **Rice Leaf Disease Classification** repository 🌾. This project provides a two-stage deep-learning-based pipeline to identify and classify diseases in rice leaves. By leveraging TensorFlow, MobileNet, and a user-friendly Gradio interface, it aims to simplify the diagnostic process for researchers, farmers, and anyone interested in plant disease detection.
 
